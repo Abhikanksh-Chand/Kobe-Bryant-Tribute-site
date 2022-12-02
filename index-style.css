@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    
+}
+
+#main{
+   
+    background-color: goldenrod;
+    max-width: 900px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#image{
+    max-width: 550px;
+    height: auto;
+
+}
+#img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid red;
+}
+#title{
+    text-align: center;
+
+}
